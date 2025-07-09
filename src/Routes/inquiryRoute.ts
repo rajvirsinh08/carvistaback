@@ -15,4 +15,4 @@ router.get('/getinquiry/:id',getInquiry);
 
 export default router;
 // king is king 21222
-// king 
+// king ejdjekje
